@@ -1,0 +1,16 @@
+{
+  "heat_load": 150.0,
+  "ambient_temperature": 35.0,
+  "maximum_junction_temperature": 95.0,
+  "number_of_fins": 24,
+  "fin_thickness": 0.001,
+  "fin_height": 0.035,
+  "base_width": 0.092,
+  "base_thickness": 0.005,
+  "air_velocity": 4.0,
+  "mesh_size": 0.0005,
+  "mesh_size_x": 0.0005,
+  "mesh_size_y": 0.0005,
+  "minimum_layer_elements": 4,
+  "diagonal_pattern": "falling"
+}

@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+results/project1_heat_sink/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
